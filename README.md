@@ -15,3 +15,6 @@
 ### [Twitter](https://twitter.com/Strayfade)
 ### [YouTube](https://YouTube.com/Strayfade)
 ### [Instagram](https://instagram.com/strayfade_)
+
+
+![Instagram](https://raw.githubusercontent.com/Strayfade/Strayfade/main/Instagram.png)
