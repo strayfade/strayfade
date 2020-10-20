@@ -12,7 +12,7 @@
  # 
 ![Strayfade's github stats](https://github-readme-stats.vercel.app/api?username=Strayfade&show_icons=true)
 
-# Repositories:
+# Some Useful Repositories:
 
 <a href="https://github.com/Strayfade/WindowsActivator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
