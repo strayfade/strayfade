@@ -12,9 +12,11 @@
 ![Strayfade's github stats](https://github-readme-stats.vercel.app/api?username=Strayfade&show_icons=true)
 
 # Social Media
-### [Twitter](https://twitter.com/Strayfade)
-### [YouTube](https://YouTube.com/Strayfade)
-### [Instagram](https://instagram.com/strayfade_)
+![Twitter](https://raw.githubusercontent.com/Strayfade/Strayfade/main/Twitter.png)
+[Twitter](https://twitter.com/Strayfade)
 
+![YouTube](https://raw.githubusercontent.com/Strayfade/Strayfade/main/Youtube.png)
+[YouTube](https://YouTube.com/Strayfade)
 
 ![Instagram](https://raw.githubusercontent.com/Strayfade/Strayfade/main/Instagram.png)
+[Instagram](https://instagram.com/strayfade_)
