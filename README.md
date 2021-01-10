@@ -2,31 +2,11 @@
 *Creating mediocre programs running in C++, C#, JavaScript, and occasionally Python.*
 
 ### Notable repositories:
- - [**WindowsActivator**](https://github.com/Strayfade/WindowsActivator) - Activates any version of Windows 10, for free, systematically.
+ - [**WindowsActivator**](https://github.com/Strayfade/WindowsActivator) - Activates any version of Windows 10.
+ - [**StormTracker**](https://github.com/Strayfade/StormTracker) - Uses Fortnite replay diagnostics to predict where the next storm will be!
+ - [**Neuron**](https://github.com/Strayfade/Neuron) - High-Performance, bloat free browser coded in C#
  - [**WebScraping**](https://github.com/Strayfade/WebScraping) - Open-Source (and easy to use) customizable Javascript application to pull information from the internet.
- - [**TwitterFortniteNews**](https://github.com/Strayfade/TwitterFortniteNews) - Uses a Python script to grab NEWS data from EpicGames, then uses Javascript to post it on Twitter!
- - [**SpanishCrawler**](https://github.com/Strayfade/SpanishCrawler) - Experimental WebCrawler application to grab spanish words and their definitions from StudySpanish.com!
  - [**CenterTaskbar**](https://github.com/Strayfade/CenterTaskbar) - (*Forked from mdhiggins/CenterTaskbar*) Center Windows Taskbar Icons.
- - [**ProgramHider**](https://github.com/Strayfade/ProgramHider) - Hides Programs Bruv. Hide your programs from your classmates and colleagues with this nifty thing.
- - [**InternalBhop**](https://github.com/Strayfade/InternalBhop) - Long-lost remnant of my game-hacking days in C++
+ - [**ProgramHider**](https://github.com/Strayfade/ProgramHider) - Hides Programs Bruv. Hide your programs from your classmates, teachers, bosses, and colleagues with this nifty thing.
  # 
 ![Strayfade's github stats](https://github-readme-stats.vercel.app/api?username=Strayfade&show_icons=true)
-
-# Some Useful Repositories:
-
-<a href="https://github.com/Strayfade/WindowsActivator">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strayfade&repo=WindowsActivator" />
-</a>
-<a href="https://github.com/Strayfade/WebScraping">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strayfade&repo=WebScraping" />
-</a>
-<a href="https://github.com/Strayfade/TwitterFortniteNews">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strayfade&repo=TwitterFortniteNews" />
-</a>
-<a href="https://github.com/Strayfade/CenterTaskbar">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strayfade&repo=CenterTaskbar" />
-</a>
