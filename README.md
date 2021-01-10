@@ -9,4 +9,4 @@
  - [**CenterTaskbar**](https://github.com/Strayfade/CenterTaskbar) - (*Forked from mdhiggins/CenterTaskbar*) Center Windows Taskbar Icons.
  - [**ProgramHider**](https://github.com/Strayfade/ProgramHider) - Hides Programs Bruv. Hide your programs from your classmates, teachers, bosses, and colleagues with this nifty thing.
  # 
-![Strayfade's github stats](https://github-readme-stats.vercel.app/api?username=Strayfade&show_icons=true)
+ 
