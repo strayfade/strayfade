@@ -2,11 +2,9 @@
 *Creating mediocre programs running in C++, C#, JavaScript, and occasionally Python.*
 ## [**My Website**](https://strayfade.github.io/)
 
-### Notable repositories:
- - [**WindowsActivator**](https://github.com/Strayfade/WindowsActivator) - Activates any version of Windows 10.
- - [**StormTracker**](https://github.com/Strayfade/StormTracker) - Uses Fortnite replay diagnostics to predict where the next storm will be!
- - [**Neuron**](https://github.com/Strayfade/Neuron) - High-Performance, bloat free browser coded in C#
- - [**WebScraping**](https://github.com/Strayfade/WebScraping) - Open-Source (and easy to use) customizable Javascript application to pull information from the internet.
- - [**CenterTaskbar**](https://github.com/Strayfade/CenterTaskbar) - (*Forked from mdhiggins/CenterTaskbar*) Center Windows Taskbar Icons.
- - [**ProgramHider**](https://github.com/Strayfade/ProgramHider) - Hides Programs Bruv. Hide your programs from your classmates, teachers, bosses, and colleagues with this nifty thing.
- 
+<p alt="contacts" align="left">
+  <a href="discord.gg/YdDddFn" TARGET="_blank"><img src="https://img.shields.io/badge/Join us-on%20Discord-blueviolet"  hspace="9" alt="Contact"></a>
+  <a href="https://twitter.com/Strayfade" TARGET="_blank"><img src="https://img.shields.io/badge/Follow me-on%20Twitter-blue"  hspace="9" alt="Contact"></a>
+  <a href="https://youtube.com/Strayfade" TARGET="_blank"><img src="https://img.shields.io/badge/Subscribe-On%20YouTube-critical"  hspace="9" alt="Contact"></a>
+  <a href="https://komarev.com/ghpvc/?username=Charles-QC" TARGET="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Strayfade" hspace="9" alt="contact"></a>
+</p>
