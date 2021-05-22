@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="./logo.png" align="center" alt="Neuron Browser" />
- <h3 align="center">
+ <h3 align="center" style="font-size: 99px;">
     Strayfade
  </h3>
  <p align="center">
