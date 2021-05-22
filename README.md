@@ -1,8 +1,8 @@
 <p align="center">
  <img width="100px" src="./logo.png" align="center" alt="Neuron Browser" />
- <h2 align="center">
+ <h3 align="center">
     Strayfade
- </h2>
+ </h3>
  <p align="center">
     Creating mediocre programs running in C++, C#, JavaScript, and occasionally Python. 
   <a href="https://strayfade.com">
