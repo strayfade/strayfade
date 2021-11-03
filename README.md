@@ -4,7 +4,7 @@
     Strayfade
  </h3>
  <p align="center">
-    Creating mediocre programs running in C++, C#, JavaScript, and occasionally Python. 
+    Creating mediocre programs running in C#, C++, and occasionally Python. (Also Javascript, HTML/CSS, Batch, Unreal Engine, and Unity)
   <a href="https://strayfade.com">
     Visit Strayfade.com
   </a>
