@@ -35,7 +35,7 @@
     
 <div align="center">
     
-[Visit https://strayfade.com](https://strayfade.com/)
+Visit [https://strayfade.com](https://strayfade.com/)
    
 </div> 
 
