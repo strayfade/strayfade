@@ -3,16 +3,34 @@
     <h1>Strayfade</h1>
 </div>
     
-<p align="center">I create mediocre programs using C#, C++, and occasionally Python. (Also Javascript, HTML/CSS, Batch, Unreal Engine, and Unity)</p>
+<p align="center">I create mediocre programs using C++, C#, and occasionally some other languages (such as Javascript, HTML/CSS, and Python)</p>
+
+###
 
 <div align="center">
-  <a href="https://strayfade.com">Website</a>
-  &ensp;|&ensp;
-  <a href="https://youtube.com/Strayfade">YouTube</a>
-  &ensp;|&ensp;
-  <a href="https://twitter.com/Strayfade">Twitter</a>
-  &ensp;|&ensp;
-  <a href="https://instagram.com/strayfade_">Instagram</a>
+  <a href="https://youtube.com/Strayfade">
+    <img alt="License" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Strayfade">
+    <img alt="License" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/strayfade_">
+    <img alt="License" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/strayfade_">
+    <img alt="License" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white"/>
+  </a>
+  <a href="https://www.deviantart.com/strayfade">
+    <img alt="License" src="https://img.shields.io/badge/-DeviantArt-05CC47?style=for-the-badge&logo=DeviantArt&logoColor=white"/>
+  </a>
+  <a href="http://discord.gg/ydDddFn">
+    <img alt="License" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
+    
+### 
+    
+[Visit https://strayfade.com](https://strayfade.com/)
+    
 </div> 
 
 
