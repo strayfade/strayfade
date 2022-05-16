@@ -23,14 +23,20 @@
   <a href="https://www.deviantart.com/strayfade">
     <img alt="License" src="https://img.shields.io/badge/-DeviantArt-05CC47?style=for-the-badge&logo=DeviantArt&logoColor=white"/>
   </a>
+  <a href="https://www.crunchyroll.com/user/RealStrayfade">
+    <img alt="License" src="https://img.shields.io/badge/-Crunchyroll-F47521?style=for-the-badge&logo=Crunchyroll&logoColor=white"/>
+  </a>
   <a href="http://discord.gg/ydDddFn">
     <img alt="License" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
-    
+</div>
+
 ### 
     
-[Visit https://strayfade.com](https://strayfade.com/)
+<div align="center">
     
+[Visit https://strayfade.com](https://strayfade.com/)
+   
 </div> 
 
 
