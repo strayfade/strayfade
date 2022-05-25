@@ -8,6 +8,12 @@
 ###
 
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Strayfade&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=909090&title_color=909090">
+</div>
+
+###
+
+<div align="center">
   <a href="https://youtube.com/Strayfade">
     <img alt="License" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/>
   </a>
@@ -31,14 +37,16 @@
   </a>
 </div>
 
-### 
+###
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strayfade&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=909090&title_color=909090" />
+</div>
+
+###
     
 <div align="center">
     
 Visit [https://strayfade.com](https://strayfade.com/)
    
 </div> 
-
-
-
-
