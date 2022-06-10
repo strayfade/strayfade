@@ -3,7 +3,7 @@
     <h1>Strayfade</h1>
 </div>
     
-<p align="center">I create mediocre programs using C++, C#, and occasionally some other languages (such as Javascript, HTML/CSS, and Python)</p>
+<p align="center">I create Realm and other C++ apps (and also do some web development stuff)</p>
 
 ###
 
