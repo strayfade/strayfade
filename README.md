@@ -3,7 +3,7 @@
     <h1>Strayfade</h1>
 </div>
     
-<p align="center">I develop Realm and other C++ desktop apps (and also do some web development stuff)</p>
+<p align="center">I develop C++ things (and also do some web development stuff)</p>
 
 ###
 
@@ -15,13 +15,13 @@
 
 <div align="center">
   <a href="https://youtube.com/Strayfade">
-    <img alt="License" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/>
+    <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/>
   </a>
   <a href="https://twitter.com/Strayfade">
-    <img alt="License" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="http://discord.gg/ydDddFn">
-    <img alt="License" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
 </div>
 
