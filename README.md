@@ -4,6 +4,7 @@
 </div>
     
 <p align="center">I develop C++ things (and also do some web development stuff)</p>
+<p align="center">I have 38 private GitHub repositories with very cool projects in them.</p>
 
 ###
 
