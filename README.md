@@ -12,7 +12,7 @@ I develop C++ things (mostly, though I also do some web development stuff)
 
 #
 
-### **My Languages**
+### **Languages**
  - C++
  - C#
  - JavaScript
