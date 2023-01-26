@@ -56,7 +56,7 @@ I develop C++ programs and tools mostly (though I also do a lot of web developme
 
 <div>
   <a href="https://youtube.com/Strayfade">
-    <img alt="YouTube" src="./assets/Youtube.svg" width="26px" height="26px" style="padding-right:10px;"/>
+    <img alt="YouTube" src="./assets/YouTube.svg" width="26px" height="26px" style="padding-right:10px;"/>
   </a>
   <a href="https://twitter.com/Strayfade">
      <img alt="Twitter" src="./assets/Twitter.svg" width="26px" height="26px" style="padding-right:10px;"/>
