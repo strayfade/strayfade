@@ -6,13 +6,10 @@ I develop C++ programs and tools mostly (though I also do a lot of web developme
 
 #
 
-### **Favorite Languages**
- - C++
- - C#
- - JavaScript
- - HTML/CSS
- - Python *(Rarely)*
- 
+### **Languages/Frameworks**
+<p>
+
+</p>
 #
  
 ### **Social Media**
