@@ -7,6 +7,12 @@
 I'm Noah, a 17-year-old software developer and musician from the United States.
 I develop C++ programs and tools mostly (though I also do a lot of web development stuff).
 
+### **I work with...**
+ - C++ (Mostly)
+ - Neural Networks/AI
+ - Web Development
+ - Cybersecurity
+
 ##### [**More on strayfade.com**](https://strayfade.com/)
 
 <div style="padding-bottom: 12px"></div>
