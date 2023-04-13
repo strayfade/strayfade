@@ -4,8 +4,8 @@
 
 ### **About Me**
 
-I'm Noah, a 17-year-old software developer and musician from the United States.
-I develop C++ programs and tools mostly (though I also do a lot of web development stuff).
+I'm Noah, a 17-year-old software developer and music producer from the United States.
+I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of web development stuff).
 
 ### **I work with...**
  - C++ (Mostly)
@@ -36,13 +36,14 @@ I develop C++ programs and tools mostly (though I also do a lot of web developme
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"  width="26px" height="26px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="26px" height="26px"  style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="26px" height="26px"  style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="26px" height="26px"  style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="26px" height="26px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  width="26px" height="26px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px" height="26px" style="padding-right:10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  width="26px" height="26px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="26px" height="26px"  style="padding-right:10px;"/>
@@ -51,8 +52,6 @@ I develop C++ programs and tools mostly (though I also do a lot of web developme
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 </p>
-
-###### *But most of the time I'm just using C++*
 
 <div style="padding-bottom: 12px"></div>
 
@@ -74,6 +73,6 @@ I develop C++ programs and tools mostly (though I also do a lot of web developme
 
 ###### Contact me at **[me@strayfade.com](mailto:me@strayfade.com)** (or any [strayfade.com](https://strayfade.com) address).
 
-###### *I do not accept message requests on Discord!*
+###### *I do not (usually) accept message requests on Discord!*
 
 <div style="padding-bottom: 12px"></div>
