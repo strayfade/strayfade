@@ -4,10 +4,10 @@
 
 ### **About Me**
 
-I'm Noah, a 17-year-old software developer and music producer from the United States.
+I'm Noah, a 17-year-old software developer from the United States.
 I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of web development stuff).
 
-### **I work with...**
+#### **I work with...**
  - C++ (Mostly)
  - Neural Networks/AI
  - Web Development
@@ -19,7 +19,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 
 #
 
-### **Favorites**
+#### **What I Use**
 ###### **Languages, Frameworks, Tools, Programs, etc.**
 
 <p>
@@ -46,7 +46,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="26px" height="26px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="26px" height="26px"  style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="26px" height="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="26px" height="26px" style="padding-right:10px;" />
@@ -57,7 +57,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 
 #
 
-### **Social Media**
+#### **Social Media**
 
 <div>
   <a href="https://youtube.com/Strayfade">
