@@ -9,7 +9,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 
 #### **I work with...**
  - C++ (Mostly)
- - Neural Networks/AI
+ - Neural Networks
  - Web Development
  - Cybersecurity
 
@@ -19,8 +19,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 
 #
 
-#### **What I Use**
-###### **Languages, Frameworks, Tools, Programs, etc.**
+#### **Things that I like**
 
 <p>
 
@@ -53,26 +52,12 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 </p>
 
+###### **Languages, Frameworks, Tools, Programs, etc.**
+
 <div style="padding-bottom: 12px"></div>
 
 #
 
-#### **Social Media**
-
-<div>
-  <a href="https://youtube.com/Strayfade">
-    <img alt="YouTube" src="./assets/YouTube.svg" width="26px" height="26px" style="padding-right:10px;"/>
-  </a>
-  <a href="https://twitter.com/Strayfade">
-     <img alt="Twitter" src="./assets/Twitter.svg" width="26px" height="26px" style="padding-right:10px;"/>
-  </a>
-  <a href="http://discord.com/users/455790298082181120">
-     <img alt="Discord" src="./assets/Discord.svg" width="26px" height="26px" style="padding-right:10px;"/>
-  </a>
-</div>
-
-###### Contact me at **[me@strayfade.com](mailto:me@strayfade.com)** (or any [strayfade.com](https://strayfade.com) address).
-
-###### *I do not (usually) accept message requests on Discord!*
+###### Contact me at **[me@strayfade.com](mailto:me@strayfade.com)** (or any [*@strayfade.com](https://strayfade.com) address).
 
 <div style="padding-bottom: 12px"></div>
