@@ -4,7 +4,7 @@
 
 ### **About Me**
 
-I'm Noah, a 17-year-old software developer from the United States.
+I'm Noah, a 18-year-old software developer from the United States.
 I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of web development stuff).
 
 #### **I work with...**
