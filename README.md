@@ -6,10 +6,12 @@ I'm Noah, an 18-year-old software developer from the United States.
 I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of web development stuff).
 
 <h4>I work with...</h4>
- - C++ (Mostly)
- - Neural Networks
- - Web Development
- - Cybersecurity
+<ul>
+ <li>C++ (Mostly)</li>
+ <li>Neural Networks</li>
+ <li>Web Development</li>
+ <li>Cybersecurity</li>
+</ul>
 
 <h4><a href="https://strayfade.com">More on strayfade.com*</a></h4>
 
