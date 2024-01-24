@@ -13,7 +13,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
  <li>Cybersecurity</li>
 </ul>
 
-<h4><a href="https://strayfade.com">More on strayfade.com*</a></h4>
+<h4>Read more on <a href="https://strayfade.com">strayfade.com</a></h4>
 
 <div style="padding-bottom: 12px"></div>
 
