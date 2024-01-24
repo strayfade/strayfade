@@ -11,13 +11,13 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
  - Web Development
  - Cybersecurity
 
-##### [**More on strayfade.com**](https://strayfade.com/)
+<h4><a href="https://strayfade.com">More on strayfade.com*</a></h4>
 
 <div style="padding-bottom: 12px"></div>
 
 #
 
-#### **Things that I like**
+<h4>Things that I like</h4>
 
 <p>
 
@@ -56,6 +56,7 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 
 #
 
-<h5> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).<img src="./assets/Icon.png" width="11px" height="11px" style="padding-left: 50px;"/></h5>
+<h5> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).</h5>
+<img src="./assets/Icon.png" width="25px" height="25px" style="padding-left: 50px;"/>
 
 <div style="padding-bottom: 12px"></div>
