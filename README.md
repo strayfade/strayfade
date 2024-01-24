@@ -1,13 +1,11 @@
-<img src="./assets/Icon.png" width="70px" height="70px" style="padding-right:10px;"/>
-
 <div style="padding-bottom: 22px"></div>
 
-### **About Me**
+<h3>About Me</h3>
 
 I'm Noah, an 18-year-old software developer from the United States.
 I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of web development stuff).
 
-#### **I work with...**
+<h4>I work with...</h4>
  - C++ (Mostly)
  - Neural Networks
  - Web Development
@@ -52,12 +50,12 @@ I develop C++ programs and desktop/CLI tools mostly (though I also do a lot of w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="26px" height="26px" style="padding-right:10px;" />
 </p>
 
-###### **Languages, Frameworks, Tools, Programs, etc.**
+<h6>Languages, Frameworks, Tools, Programs, etc.</h6>
 
 <div style="padding-bottom: 12px"></div>
 
 #
 
-###### Contact me at **[me@strayfade.com](mailto:me@strayfade.com)** (or any [*@strayfade.com](https://strayfade.com) address).
+<h5> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).<img src="./assets/Icon.png" width="11px" height="11px" style="padding-left: 50px;"/></h5>
 
 <div style="padding-bottom: 12px"></div>
