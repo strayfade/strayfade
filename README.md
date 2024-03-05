@@ -67,8 +67,3 @@
 #
 
 <h5 style="text-align: center;"> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).</h5>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strayfade&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=strayfade&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-</div>
