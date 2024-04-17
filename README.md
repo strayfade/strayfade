@@ -2,22 +2,23 @@
 
 <h3>About Me</h3>
 
-<p align="left">I'm Noah, an 18-year-old software developer and hardware engineer from the United States. I develop in C++ for desktop and embedded systems, as well as modern web applications.</p>
+<p align="left">I'm Noah, an 18-year-old software developer and hardware engineer from the United States. I develop in C++ for desktop and embedded systems, as well as web applications.</p>
 
 <h4>I work with...</h4>
 <ul>
- <li>C++ (Mostly)</li>
+ <li>C++ <em>(mostly)</em></li>
+ <li>UI/UX Design and Programming</li>
+ <li>Cyber/Network Security</li>
  <li>Hardware Development</li>
+ <li>Backend/Server Infrastructure</li>
  <li>Neural Networks</li>
- <li>Web Development</li>
- <li>Cybersecurity</li>
 </ul>
 
 <h4>Read more on <a href="https://strayfade.com">strayfade.com</a></h4>
 
 #
 
-<h5 align="left">Languages, frameworks, and systems that I am familiar with:</h5>
+<h5 align="left">I am familiar with...</h5>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
