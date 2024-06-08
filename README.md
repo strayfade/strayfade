@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-repeat: round; background-image: url('https://github.com/strayfade/strayfade/raw/main/assets/35aed02cd2e20bc3ce99a55d586eb83d'); filter: blur(5px) brightness(30%); box-shadow: inset 0px 0px 100px black;]{0}$}
-```
-
 <div style="padding-bottom: 22px"></div>
 
 <h3>About Me</h3>
@@ -68,8 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
-
-
 #
 
 <h5 style="text-align: center;"> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).</h5>
+
+```math
+\ce{$\unicode[goombafont; opacity: 0.95; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)); background-repeat: round;]{0}$}
+```
