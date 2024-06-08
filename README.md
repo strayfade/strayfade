@@ -69,5 +69,5 @@
 <h5 style="text-align: center;"> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).</h5>
 
 ```math
-\ce{$\unicode[opacity: 0.95; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-repeat: round; background-image: url('https://github.com/strayfade/strayfade/raw/main/assets/3318021079'); filter: blur(0px) brightness(20%) hue-rotate(-210deg); box-shadow: inset 0px 0px 300px black;]{0}$}
+\ce{$\unicode[opacity: 0.95; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-repeat: round; background-image: url('https://github.com/strayfade/strayfade/raw/main/assets/3318021079'); filter: brightness(50%) saturate(100%); box-shadow: inset 0px 0px 500px black, inset 0px 0px 500px black;]{0}$}
 ```
