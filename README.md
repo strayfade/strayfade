@@ -67,3 +67,5 @@
 #
 
 <h5 style="text-align: center;"> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).</h5>
+
+<img src="https://komarev.com/ghpvc/?username=strayfade&label=Visits&style=flat">
