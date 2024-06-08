@@ -1,3 +1,7 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-repeat: round; opacity: 0.5; background-image: url('https://github.com/strayfade/strayfade/raw/main/assets/35aed02cd2e20bc3ce99a55d586eb83d'); filter: blur(5px) brightness(30%); box-shadow: inset 0px 0px 100px black;]{0}$}
+```
+
 <div style="padding-bottom: 22px"></div>
 
 <h3>About Me</h3>
