@@ -7,7 +7,8 @@
 <h4>I work with...</h4>
 <ul>
  <li>C++ (mostly)</li>
- <li>UI/UX design and programming</li>
+ <li>UI design and programming</li>
+ <li>Embedded platforms</li>
  <li>Cyber/network security</li>
  <li>Hardware development</li>
  <li>Backend/server infrastructure</li>
