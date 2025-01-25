@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-<p align="left">I'm Noah, an 18-year-old software developer and hardware engineer from the United States. I develop primarily in C++ targeting desktop and embedded platforms.</p>
+<p align="left">I'm Noah, an 19-year-old software developer and hardware engineer from the United States. I develop primarily in C++ targeting desktop and embedded platforms.</p>
 
 <h4>I work with...</h4>
 <ul>
