@@ -1,1 +1,3 @@
-<img src="/strayfade.webp" align="center" width="550" height="550">
+<p align="center">
+<img src="/strayfade.webp" width="550" height="550">
+</p>
