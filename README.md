@@ -8,7 +8,7 @@ I'm Noah, a 19-year-old software developer and hardware engineer from the United
  - Embedded platforms
  - Cyber/network security
  - Hardware development</li>
- - Backend/server infrastructure (see </li>
+ - Backend/server infrastructure
  - Neural networks
 
 
