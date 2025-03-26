@@ -4,7 +4,7 @@ I'm Noah, a 19-year-old software developer and hardware engineer from the United
 
 #### I work with...
  - C++ (mostly)
- - UI design and programming
+ - UI design and implementation
  - Embedded platforms
  - Cyber/network security
  - Hardware development</li>
