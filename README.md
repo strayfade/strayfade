@@ -1,22 +1,29 @@
-<h3>About Me</h3>
+### About Me
 
-<p align="left">I'm Noah, a 19-year-old software developer and hardware engineer from the United States. I develop primarily in C++ targeting desktop and embedded platforms.</p>
+I'm Noah, a 19-year-old software developer and hardware engineer from the United States. I develop primarily in C++ targeting desktop and embedded platforms.
 
-<h4>I work with...</h4>
-<ul>
- <li>C++ (mostly)</li>
- <li>UI design and programming</li>
- <li>Embedded platforms</li>
- <li>Cyber/network security</li>
- <li>Hardware development</li>
- <li>Backend/server infrastructure</li>
- <li>Neural networks</li>
-</ul>
+#### I work with...
+ - C++ (mostly)
+ - UI design and programming
+ - Embedded platforms
+ - Cyber/network security
+ - Hardware development</li>
+ - Backend/server infrastructure (see </li>
+ - Neural networks
 
-<h4>Read more on <a href="https://strayfade.com">strayfade.com</a></h4>
+
+#### My favorite projects are...
+ - [**fnn**](https://github.com/strayfade/fnn) — a lightweight, bare-bones neural networking library for C++
+ - [**sf2040**](https://github.com/strayfade/sf2040) — a custom, open-hardware keyboard made for software developers
+ - [**nms2**](https://github.com/strayfade/nms2) — an algorithm for eliminating false positives in video-based object detection using OpenCV in C++
+ - [**preflight**](https://github.com/strayfade/preflight) — a configurable node-based proxy responsible for directing traffic for my website
+ - [**imessage**](https://github.com/strayfade/imessage) — a websocket frontend allowing iMessage support on nearly any device with a web browser
+ - [**website**](https://github.com/strayfade/website) — my main website which displays my past, current, and upcoming projects
+
+#### Read more on [strayfade.com](https://strayfade.com)
 
 #
 
-<h5 style="text-align: center;"> Contact me at <strong><a href="mailto:me@strayfade.com">me@strayfade.com</a></strong> (or any @<a href="https://strayfade.com">strayfade.com</a> address).</h5>
+##### Contact me at **[\<anything\>@strayfade.com](mailto:admin@strayfade.com)**
 
 <img src="https://komarev.com/ghpvc/?username=strayfade&label=Visits&style=flat">
