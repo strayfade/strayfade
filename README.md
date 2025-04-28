@@ -26,4 +26,4 @@ I'm Noah, a 19-year-old software developer and hardware engineer from the United
 
 ##### Contact me at **[\<anything\>@strayfade.com](mailto:admin@strayfade.com)**
 
-<img src="https://komarev.com/ghpvc/?username=strayfade&label=Visits&style=flat">
+<img src="https://komarev.com/ghpvc/?username=strayfade&label=Visits&style=flat-square">
