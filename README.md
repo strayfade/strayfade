@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Noah, a 19-year-old software developer and hardware engineer from the United States. I develop primarily in C++ targeting desktop and embedded platforms.
+I'm Noah, a software developer and hardware engineer from the United States. I develop primarily in C++ targeting desktop and embedded platforms.
 
 #### I work with...
  - C++ (mostly)
