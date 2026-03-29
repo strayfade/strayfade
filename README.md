@@ -13,7 +13,7 @@ I'm Noah, a software developer and hardware engineer from the United States. I d
 
 
 #### My favorite projects are...
- - [**netsocket**](https://github.com/strayfade/netsocket) - a nodegraph-based editor that makes it easy to program complex automations for smart-home systems
+ - [**netsocket**](https://github.com/strayfade/netsocket) — a nodegraph-based editor that makes it easy to program complex automations for smart-home systems
  - [**fnn**](https://github.com/strayfade/fnn) — a lightweight, bare-bones neural network library for C++
  - [**sf2040**](https://github.com/strayfade/sf2040) — a custom, open-hardware keyboard made for software developers
  - [**nms2**](https://github.com/strayfade/nms2) — an algorithm for eliminating false positives in video-based object detection workflows using OpenCV in C++
