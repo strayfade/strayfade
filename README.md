@@ -6,14 +6,16 @@ I'm Noah, a software developer and hardware engineer from the United States. I d
  - C++ (mostly)
  - UI design and implementation
  - Embedded platforms
+ - Reverse engineering
  - Cyber/network security
- - Hardware development</li>
+ - Hardware development
  - Backend/server infrastructure
- - Neural networks
+ - Reinforcement learning
 
 
 #### My favorite projects are...
  - [**netsocket**](https://github.com/strayfade/netsocket) — a nodegraph-based editor that makes it easy to program complex automations for smart-home systems
+ - [**tweaks**](https://github.com/strayfade/tweaks) — my tweak repository for jailbroken iOS devices
  - [**fnn**](https://github.com/strayfade/fnn) — a lightweight, bare-bones neural network library for C++
  - [**sf2040**](https://github.com/strayfade/sf2040) — a custom, open-hardware keyboard made for software developers
  - [**nms2**](https://github.com/strayfade/nms2) — an algorithm for eliminating false positives in video-based object detection workflows using OpenCV in C++
